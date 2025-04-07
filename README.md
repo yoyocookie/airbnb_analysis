@@ -77,10 +77,4 @@
 - 📦 資料處理： [Colab Link](https://colab.research.google.com/drive/1AlNslZ1xyrEldfjKXJxh2UoykWx0Lz3w)
 - 🤖 模型建構： [Colab Link](https://colab.research.google.com/drive/1O32d01M6wpF_IAH56uFjMVTf4kPBT2n_#scrollTo=GQvqxG2arzW7)
 
----
 
-## 📬 聯絡方式
-
-如有任何問題或建議，歡迎與我聯絡：
-- GitHub: [你的帳號](https://github.com/你的帳號)
-- Email: your_email@example.com
